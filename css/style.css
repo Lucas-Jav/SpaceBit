@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
 .aL {
   color: #b9b9b9;
 }
@@ -6,8 +9,8 @@
   background-color: black;
 }
 
-.alphaC {
-  font-family: "AlphaCentauri", sans-serif;
+.f-krona {
+  font-family: "Krona One", sans-serif;
 }
 
 .workS {
@@ -19,8 +22,8 @@
   font-family: "Work Sans", sans-serif;
 }
 
-.centurion {
-  font-family: "CENTURION", sans-serif;
+.f-bunge {
+  font-family: "Bungee", cursive;
 }
 
 .txtAlign {
