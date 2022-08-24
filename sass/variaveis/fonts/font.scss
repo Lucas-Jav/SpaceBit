@@ -1,0 +1,32 @@
+// alpha centauri: font-family: 'AlphaCentauri', sans-serif;
+@import url('http://fonts.cdnfonts.com/css/alphacentauri');
+.alphaC {
+    font-family: 'AlphaCentauri', sans-serif;
+}
+
+// works sans: font-family: 'Work Sans', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+.workS {
+    font-family: 'Work Sans', sans-serif;
+    font-size: small;
+}
+.workN {
+    font-family: 'Work Sans', sans-serif;
+}
+
+// centurion font-family: 'CENTURION', sans-serif;
+@import url('http://fonts.cdnfonts.com/css/centurion');
+.centurion {
+    font-family: 'CENTURION', sans-serif;
+}
+
+
+// txtalign
+
+.txtAlign {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+
